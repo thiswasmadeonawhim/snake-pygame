@@ -1,5 +1,7 @@
-# Snake Eater
+# Snake Eater CUSTOM
 A snake game written in Python using the Pygame library.
+
+Specifically, I'm editing snake to be Touken Ranbu Mochi-Mochis! This is gonna be a long wip but I hope to get it running online so you don't need to DL anything to play. I plan on also fixing up things like font and display to make it more Sword. Update logs will be added below.
 
 
 ## Installing
@@ -48,3 +50,6 @@ See also the list of [contributors](https://github.com/rajatdiptabiswas/snake-py
 ## Acknowledgements
 * [Pygame Documentations](https://www.pygame.org/docs/)
 * [Udemy: Python Game Development](https://www.udemy.com/python-game-development-creating-a-snake-game-from-scratch/learn/v4/overview)
+
+## Additional Pulls
+* [Custom Snake Body Parts Edit - Stackoverflow](https://stackoverflow.com/questions/60823576/how-can-i-use-different-images-for-my-snakes-body-parts-in-my-snake-game-pyth)
